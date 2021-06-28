@@ -12,7 +12,7 @@ Redes Sociais:
 
     ![step1](images/step1.png)
 
-2. Modifique as posições de acordo com a sua resolução.
+2. Modifique as posições de acordo com a sua resolução.  
 	**Recomendo que utilize a documentação do PyautoGui para chegar as posições de click correta.**
 
     ![step2](images/step2.png)
