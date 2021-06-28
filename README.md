@@ -5,7 +5,7 @@ Redes Sociais:
 * [Instagram](https://www.instagram.com/claudiogfez/)
 * [Linkedin](https://www.linkedin.com/in/clcostaf/)
 
-##How to use ( Como Utilizar )
+## How to use ( Como Utilizar )
 	-Para está RPA funcionar será necessário fazer algumas alterações importantes!
 
 1. Será necessário colocar o link do formulário neste campo.
