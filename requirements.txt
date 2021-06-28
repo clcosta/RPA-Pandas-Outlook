@@ -1,0 +1,3 @@
+PyAutoGUI==0.9.52
+pandas==1.2.4
+pywin32==227
