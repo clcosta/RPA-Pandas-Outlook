@@ -11,7 +11,7 @@ Automação que utiliza O **Google Forms** para baixar uma planilha, tratar os d
 1. Primeiramente você pode clonar este repositório.
 
 ```
-$ git clone https://github.com/clcosta/YT_Player-Selenium-Tkinter.git
+$ git clone https://github.com/clcosta/RPA-Pandas-Outlook.git
 ```
 
 2. Agora a instalação das bibliotecas
