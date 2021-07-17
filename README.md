@@ -1,13 +1,27 @@
 # Bem vindo ao repositório de RPA Google Forms com report por E-mail via Outlook!
 Automação que utiliza O **Google Forms** para baixar uma planilha, tratar os dados  e enviar um relatório por **E-mail  através do Outlook.**
 
-Redes Sociais:
-* [Site](https://eloquent-mayer-345dc7.netlify.app/)
+## Redes Sociais:
+* [Site](https://portfolio-claudio.herokuapp.com)
 * [Instagram](https://www.instagram.com/claudiogfez/)
-* [Linkedin](https://www.linkedin.com/in/clcostaf/)
+* [Linkedin](https://www.linkedin.com/in/clcostaf/)  
 
-## How to use ( Como Utilizar )
-	-Para está RPA funcionar será necessário fazer algumas alterações importantes!
+# Instalação
+
+1. Primeiramente você pode clonar este repositório.
+
+```
+$ git clone https://github.com/clcosta/YT_Player-Selenium-Tkinter.git
+```
+
+2. Agora a instalação das bibliotecas
+
+```
+pip install -r requirements.txt
+```
+
+# Como utilizar
+**Para está RPA funcionar será necessário fazer algumas alterações importantes!**
 
 1. Será necessário colocar o link do formulário neste campo.
 
@@ -21,4 +35,12 @@ Redes Sociais:
 3. Coloque o diretorio onde será instalado o arquivo.
 
 	![step3](images/step3.png)
----
+
+4. Com tudo já instalado e modificações feitas é só executar!
+```
+python main.py
+```
+
+# Autor
+| [<img src="https://avatars.githubusercontent.com/u/83929403?v=4" width=115><br><sub>@clcostaf</sub>](https://github.com/clcosta) |
+| :---: |
