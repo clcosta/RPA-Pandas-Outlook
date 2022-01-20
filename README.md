@@ -2,7 +2,6 @@
 Automação que utiliza O **Google Forms** para baixar uma planilha, tratar os dados  e enviar um relatório por **E-mail  através do Outlook.**
 
 ## Redes Sociais:
-* [Site](https://portfolio-claudio.herokuapp.com)
 * [Instagram](https://www.instagram.com/claudiogfez/)
 * [Linkedin](https://www.linkedin.com/in/clcostaf/)  
 
